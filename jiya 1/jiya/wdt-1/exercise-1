@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>exercise-3</title>
+    </head>
+    <body bgcolor="powderblue">
+        <center>
+        <table border="3" cellspacing="15">
+
+            <tr>
+                <h1><th colspan="5"><B><mark>TIME TABLE</mark></B></th></h1>
+            </tr>
+
+            <tr>
+                <th>div-a</th>
+                <th>div-b</th>
+                <th>div-c</th>
+                <th>div-d</th>
+                <th>div-e</th>
+            </tr>
+
+            <tr>
+                <td>fco</td>
+                <td>cs</td>
+                <td>wdt</td>
+                <td>fop</td>
+                <td>es</td>
+            </tr>
+
+            <tr>
+                <td>cs</td>
+                <td>fop</td>
+                <td>es</td>
+                <td>fco</td>
+                <td>wdt</td>
+            </tr>
+
+            <tr>
+                <td>fop</td>
+                <td>es</td>
+                <td>fco</td>
+                <td>wdt</td>
+                <td>cs</td>
+            </tr>
+
+            <tr>
+                <th colspan="5">break</th>
+            </tr>
+
+            <tr>
+                <td>es</td>
+                <td>fco</td>
+                <td>cs</td>
+                <td>fop</td>
+                <td>wdt</td>
+            </tr>
+
+            <tr>
+                <td>wdt</td>
+                <td>fop</td>
+                <td>es</td>
+                <td>wdt</td>
+                <td>fco</td>
+            </tr>
+            
+        </table>
+        </center>
+    </body>
+</html>

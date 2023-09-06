@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>exercise-11</title>
+    </head>
+    <body>
+        <h1>The Garden Company</h1>
+        <h6><i>helping you help your gardens grow since 1975</i></h6>
+        <hr width="100%" size="5" color="black">
+        <p>welcome to <b>The Garden Company!</b> we hope you will find our site a usefull resource for becoming a better gardener</p>
+        <h2>Recent Articles</h2>
+
+        <ul>
+            <li><u>diagnosing foliage problems</u></li>
+            <li>Spraying techniques for fruit tress</li>
+                <ul>
+                    <Li><u>HTML version</u></Li>
+                        <ul>
+                            <Li>equipment</Li>
+                            <Li>Mixing</Li>
+                            <Li>Spraying</Li>
+                            <li>Cleanup</li>
+                        </ul>
+                    <li>microsoft word version-(Download free Word viewer)</li>    
+                </ul>
+            <li>Glossary of them</li>
+        </ul>
+        <hr width-"100%" size="5" color="black">
+    </body>
+</html>

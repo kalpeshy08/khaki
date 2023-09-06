@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>exercise-1</title>
+    </head>
+    <body bgcolor="pink">
+        <center>
+            <table border="3">
+
+                 <tr bgcolor="yellow">
+                    <th>name</th>
+                    <th>birthdate</th>
+                    <th>gender</th>
+                </tr>
+
+                <tr bgcolor="powderblue">
+                    <th>ram</th>
+                    <td>25/02/2006</td>
+                    <td>male</td>
+                </tr>
+
+                <tr bgcolor="powderblue">
+                    <th>lakshaman</th>
+                    <td>03/09/2006</td>
+                    <td>male</td>
+                </tr>
+
+                <tr bgcolor="powderblue">
+                    <th>janki</th>
+                    <td>15/03/2006</td>
+                    <td>female</td>
+                </tr>
+            </table>
+        </center>
+    </body>
+
+</html>
